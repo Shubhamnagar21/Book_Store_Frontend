@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import BackButton from "../components/BackBUtton";
+import BackButton from "../components/BackButton";
 import axios from "axios";
 import Spinner from "../components/Spinner";
 import { useNavigate, useParams } from "react-router-dom";
